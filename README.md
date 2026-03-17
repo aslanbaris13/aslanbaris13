@@ -24,11 +24,10 @@ Currently contributing to **Whisper-based STT** and **Speech Emotion Recognition
 |---|---|---|
 | **[CallMetricAI](https://github.com/aslanbaris13/CallMetricAI)** | Multimodal Agentic AI platform for call center analytics | Python, Whisper, NLP, AWS S3 |
 | **[VoiceTale](https://github.com/aslanbaris13/VoiceTale)** | AI-powered audiobook app with Zero-Shot Voice Cloning *(Bachelor's Thesis)* | StyleTTS2, React, Supabase |
-| **GökKurt** | Autonomous flight software for TEKNOFEST 2026 Combat UAV | ROS2, YOLOv10, PX4, MAVSDK |
 | **[VitaNet](https://github.com/aslanbaris13/VitaNet)**  | Offline crisis management network — AI4Change Ideathon 1st Place | Flutter, LangChain, BLE Mesh |
 | **[Credit Risk Prediction](https://github.com/aslanbaris13/Credit_Risk_Approval_Prediction)** | End-to-end ML pipeline for credit card approval | XGBoost, Scikit-learn, CRISP-DM |
 | **[LexClima AI](https://github.com/aslanbaris13/LexClima-AI)** | Autonomous climate compliance platform — greenwashing detection | LLM, RAG, LangChain |
-
+| **GökKurt** | Autonomous flight software for TEKNOFEST 2026 Combat UAV | ROS2, YOLOv10, PX4, MAVSDK |
 ---
 
 ## 🏆 Achievements
