@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aslanbaris13)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aslanbaris13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://www.bariaslan.com.tr)
 
 </div>
 
