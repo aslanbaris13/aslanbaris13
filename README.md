@@ -2,7 +2,7 @@
 
 # Barış Aslan
 
-**AI & NLP Developer · Autonomous Systems · Computer Engineering**
+**AI & NLP Developer · Autonomous Systems · Computer Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aslanbaris13)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aslanbaris13@gmail.com)
